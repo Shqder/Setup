@@ -1,2 +1,2 @@
 My Setup
-https://github.com/J4C0B3Y/Setup/wiki
+https://github.com/Shqder/Setup/wiki
